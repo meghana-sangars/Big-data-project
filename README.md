@@ -15,6 +15,7 @@ The data for task 2 and task 3 can be obtained as follows :
 - The steps followed for collecting data for recommeder system is explained in **data collection** under task 3
 
 ## Task 1 - Data visualization 
-- Tableau has been used for viz and the link for workbook is also provided
+- Tableau has been used for viz and workbook is also provided
+- [Link for published workbook](https://public.tableau.com/views/BDA_step1_step3_final/Sheet1?:language=en-GB&:display_count=y&:origin=viz_share_link)
 - The data from 2 countries - US and GB only has been used
 - Some interesting conclusions can be drawn from the plots which can be found under the category **Inferences**
