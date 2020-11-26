@@ -18,4 +18,14 @@ The data for task 2 and task 3 can be obtained as follows :
 - Tableau has been used for viz and workbook is also provided
 - [Link for published workbook](https://public.tableau.com/views/BDA_step1_step3_final/Sheet1?:language=en-GB&:display_count=y&:origin=viz_share_link)
 - The data from 2 countries - US and GB only has been used
-- Some interesting conclusions can be drawn from the plots which can be found under the category **Inferences**
+- Some interesting conclusions can be drawn from the plots which can be found under the file **viz**
+
+
+## Task 2 - Sentiment analysis with Naive Bayes classifier 
+- The sentiment analysis was performed on comments from "Education" category
+- Polarity of the comment was found using textblob 
+- The comments were categorized as either of three - positive, neutral and neutral
+- A Naive bayes classifier was modelled on the categorized dataset
+- The model achieved an accuracy of 89%(approximately)
+- The notebook for combining the US and GB dataset and filtering "Education" comments can be found
+- The notebook for classifier can also be found in the same folder
