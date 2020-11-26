@@ -29,3 +29,16 @@ The data for task 2 and task 3 can be obtained as follows :
 - The model achieved an accuracy of 89%(approximately)
 - The notebook for combining the US and GB dataset and filtering "Education" comments can be found
 - The notebook for classifier can also be found in the same folder
+
+
+## Task 3 - Content based recommender system 
+### Data collection
+- I wanted to build a recommender system for suggesting me youtube videos based on my history
+- You can export your history as a JSON file from Google Takeout
+- From the video URL, get the video ID
+- To get the details about the videos, you need to have an API key for YouTube v3 data API
+
+### Recommender system
+- Only the data for top 5 most viewed category of videos was used
+- The simple system was modelled based on cosine similarity of the titles alone
+- The model can achieve further better results if we include the video description also
