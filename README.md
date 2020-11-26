@@ -24,7 +24,7 @@ The data for task 2 and task 3 can be obtained as follows :
 ## Task 2 - Sentiment analysis with Naive Bayes classifier 
 - The sentiment analysis was performed on comments from "Education" category
 - Polarity of the comment was found using textblob 
-- The comments were categorized as either of three - positive, neutral and neutral
+- The comments were categorized as either of the three - positive, neutral or negative
 - A Naive bayes classifier was modelled on the categorized dataset
 - The model achieved an accuracy of 89%(approximately)
 - The notebook for combining the US and GB dataset and filtering "Education" comments can be found
